@@ -4,7 +4,7 @@
 Ја добив групата на код 5
 ### Control Flow Graph
 
-![alt-Фотографија од control flow graph-ot](Untitled Diagram.jpg)
+![Фотографија од control flow graph-ot](CFD.jpg)
 
 ### Цикломатска комплексност:
 Цикломатската комплексност на овој код е 4,
