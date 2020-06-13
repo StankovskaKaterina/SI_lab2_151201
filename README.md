@@ -3,7 +3,7 @@
 ### Група на код:
 Ја добив групата на код 5
 ### Control Flow Graph
-![Фотографија од control flow graph-ot](silab2_151227.drawio.png)
+![Фотографија од control flow graph-ot](control flow graph.jpg)
 ##### [линк до слика од начинот на нумерација на cfg]
 
 (https://drive.google.com/file/d/1Ste8dxEXZWGH9noGwmbmsIPKN4s8b_kV/view?usp=sharing)
